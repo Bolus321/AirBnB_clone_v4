@@ -155,7 +155,6 @@ No known bugs at this time.
 
 ## Authors
 NNAMDI OGBOLU - [Github](https://github.com/Bolus321)   
-PETERS KINGS MONDAY - [Github](https://github.com/kings24ex) 
 
 
 ## License
